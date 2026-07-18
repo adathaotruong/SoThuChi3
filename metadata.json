@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Thu Chi - Ada",
+  "description": "Ứng dụng quản lý thu chi cá nhân trực quan hỗ trợ đa tiền tệ (AED, VND, USD, GEL)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
